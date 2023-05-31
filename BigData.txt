@@ -2,3 +2,6 @@ BIG DATA DONT STORE ON GIT
 
 Pretend this is some huge data you dont want stored on git, but I want it on my working branch. 
 Oh also this line is important. 
+
+
+This line is an accident and shouldnt have been committed. I need to remove it using checkout. 
