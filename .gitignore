@@ -1,0 +1,7 @@
+#ignore object files
+*.o
+
+#ignore ignore archive files 
+*.a
+
+#other 
