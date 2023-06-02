@@ -6,3 +6,7 @@ Pretent this is a coworkers work and i want to "fetch it"
 
 
 Lets do a pull now instead of a fetch. 
+
+
+
+Alter the same file and try to pull again when there are local changes. 
